@@ -240,9 +240,8 @@ USBTestPage = __decorate([
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NetworkTestPage; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(20);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_http__ = __webpack_require__(198);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_map__ = __webpack_require__(272);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_map__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map__ = __webpack_require__(271);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map__);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -255,11 +254,9 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 
-
 var NetworkTestPage = (function () {
-    function NetworkTestPage(navCtrl, http) {
+    function NetworkTestPage(navCtrl) {
         this.navCtrl = navCtrl;
-        this.http = http;
         this.small = [];
         this.medium = [];
         this.large = [];
@@ -288,17 +285,16 @@ var NetworkTestPage = (function () {
     return NetworkTestPage;
 }());
 NetworkTestPage = __decorate([
-    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/home/tamer/workspace/bachelor_pwa/src/pages/networkTest/networkTest.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>\n            Network Test\n        </ion-title>\n    </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n    <img src="/assets/img/systems.jpg" />\n\n    <ion-label> Measure Test Result: {{results}}</ion-label>\n    <ion-list>\n        <ion-item> <button ion-button (click)="downloadSmall()"> Small JSON file</button></ion-item>\n        <ion-item> <button ion-button (click)="downloadMedium()"> Merdium JSON file</button></ion-item>\n        <ion-item> <button ion-button (click)="downloadLarge()"> Large JSON file</button></ion-item>\n    </ion-list>\n\n</ion-content>\n'/*ion-inline-end:"/home/tamer/workspace/bachelor_pwa/src/pages/networkTest/networkTest.html"*/
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/home/tamer/workspace/bachelor_pwa/src/pages/networkTest/networkTest.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>\n            Network Test\n        </ion-title>\n    </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n    <img src="/assets/img/systems.jpg" />\n\n    <ion-list>\n        <ion-item> <button ion-button (click)="downloadSmall()"> Small JSON file</button></ion-item>\n        <ion-item> <button ion-button (click)="downloadMedium()"> Merdium JSON file</button></ion-item>\n        <ion-item> <button ion-button (click)="downloadLarge()"> Large JSON file</button></ion-item>\n    </ion-list>\n\n</ion-content>'/*ion-inline-end:"/home/tamer/workspace/bachelor_pwa/src/pages/networkTest/networkTest.html"*/
     }),
-    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */],
-        __WEBPACK_IMPORTED_MODULE_2__angular_http__["a" /* Http */]])
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */]])
 ], NetworkTestPage);
 
 //# sourceMappingURL=networkTest.js.map
 
 /***/ }),
 
-/***/ 199:
+/***/ 198:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -352,7 +348,7 @@ NativeTestPage = __decorate([
 
 /***/ }),
 
-/***/ 200:
+/***/ 199:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1461,13 +1457,13 @@ PerformanceTestPage = __decorate([
 
 /***/ }),
 
-/***/ 201:
+/***/ 200:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(202);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_module__ = __webpack_require__(220);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(201);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_module__ = __webpack_require__(219);
 
 
 Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_1__app_module__["a" /* AppModule */]);
@@ -1475,7 +1471,7 @@ Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* pl
 
 /***/ }),
 
-/***/ 220:
+/***/ 219:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1483,17 +1479,17 @@ Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* pl
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(26);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(20);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__app_component__ = __webpack_require__(260);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__app_component__ = __webpack_require__(259);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__pages_home_home__ = __webpack_require__(193);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__pages_dbTest_dbTest__ = __webpack_require__(194);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pages_usbTest_usbTest__ = __webpack_require__(196);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__pages_networkTest_networkTest__ = __webpack_require__(197);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__pages_nativeTest_nativeTest__ = __webpack_require__(199);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__pages_performanceTest_performanceTest__ = __webpack_require__(200);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__pages_nativeTest_nativeTest__ = __webpack_require__(198);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__pages_performanceTest_performanceTest__ = __webpack_require__(199);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__ionic_native_status_bar__ = __webpack_require__(189);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__ionic_native_splash_screen__ = __webpack_require__(192);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__ionic_storage__ = __webpack_require__(195);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__angular_http__ = __webpack_require__(198);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__angular_http__ = __webpack_require__(272);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -1533,7 +1529,7 @@ AppModule = __decorate([
         ],
         imports: [
             __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
-            __WEBPACK_IMPORTED_MODULE_13__angular_http__["b" /* HttpModule */],
+            __WEBPACK_IMPORTED_MODULE_13__angular_http__["a" /* HttpModule */],
             __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["d" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */]),
             __WEBPACK_IMPORTED_MODULE_12__ionic_storage__["a" /* IonicStorageModule */].forRoot()
         ],
@@ -1559,7 +1555,7 @@ AppModule = __decorate([
 
 /***/ }),
 
-/***/ 260:
+/***/ 259:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1572,8 +1568,8 @@ AppModule = __decorate([
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__pages_dbTest_dbTest__ = __webpack_require__(194);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pages_usbTest_usbTest__ = __webpack_require__(196);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__pages_networkTest_networkTest__ = __webpack_require__(197);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__pages_nativeTest_nativeTest__ = __webpack_require__(199);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__pages_performanceTest_performanceTest__ = __webpack_require__(200);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__pages_nativeTest_nativeTest__ = __webpack_require__(198);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__pages_performanceTest_performanceTest__ = __webpack_require__(199);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -1641,5 +1637,5 @@ MyApp = __decorate([
 
 /***/ })
 
-},[201]);
+},[200]);
 //# sourceMappingURL=main.js.map
