@@ -1,1 +1,1895 @@
-webpackJsonp([0],{104:function(l,n){function o(l){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+l+"'.")})}o.keys=function(){return[]},o.resolve=o,l.exports=o,o.id=104},111:function(l,n){function o(l){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+l+"'.")})}o.keys=function(){return[]},o.resolve=o,l.exports=o,o.id=111},118:function(l,n,o){"use strict";function r(l){return g._27(0,[(l()(),g._7(0,null,null,7,"button",[["class","item item-block"],["ion-item",""],["menuClose",""]],null,[[null,"click"]],function(l,n,o){var r=!0,u=l.component;return"click"===n&&(r=!1!==g._21(l,6).close()&&r),"click"===n&&(r=!1!==u.openPage(l.context.$implicit)&&r),r},W.b,W.a)),g._5(1097728,null,3,z.a,[K.a,Q.a,g.k,g.E,[2,U.a]],null,null),g._24(335544320,4,{contentLabel:0}),g._24(603979776,5,{_buttons:1}),g._24(603979776,6,{_icons:1}),g._5(16384,null,0,G.a,[],null,null),g._5(16384,null,0,V.a,[Z.a],{menuClose:[0,"menuClose"]},null),(l()(),g._26(2,["\n        ","\n      "]))],function(l,n){l(n,6,0,"")},function(l,n){l(n,7,0,n.context.$implicit.title)})}function u(l){return g._27(0,[g._24(402653184,1,{nav:0}),(l()(),g._7(0,null,null,28,"ion-menu",[["role","navigation"]],null,null,null,X.b,X.a)),g._23(6144,null,Y.a,null,[ll.a]),g._5(245760,null,2,ll.a,[Z.a,g.k,Q.a,nl.a,g.E,ol.a,rl.h,ul.a,wl.a],{content:[0,"content"]},null),g._24(335544320,2,{menuContent:0}),g._24(335544320,3,{menuNav:0}),(l()(),g._26(0,["\n  "])),(l()(),g._7(0,null,0,10,"ion-header",[],null,null,null,null,null)),g._5(16384,null,0,al.a,[Q.a,g.k,g.E,[2,tl.a]],null,null),(l()(),g._26(null,["\n    "])),(l()(),g._7(0,null,null,6,"ion-toolbar",[["class","toolbar"]],[[2,"statusbar-padding",null]],null,null,el.b,el.a)),g._5(49152,null,0,il.a,[Q.a,g.k,g.E],null,null),(l()(),g._26(3,["\n      "])),(l()(),g._7(0,null,3,2,"ion-title",[],null,null,null,_l.b,_l.a)),g._5(49152,null,0,sl.a,[Q.a,g.k,g.E,[2,il.a],[2,cl.a]],null,null),(l()(),g._26(0,["Menu"])),(l()(),g._26(3,["\n    "])),(l()(),g._26(null,["\n  "])),(l()(),g._26(0,["\n\n  "])),(l()(),g._7(0,null,0,9,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,hl.b,hl.a)),g._5(4374528,[[2,4]],0,dl.a,[Q.a,nl.a,ul.a,g.k,g.E,wl.a,ol.a,g.y,[2,tl.a],[2,fl.a]],null,null),(l()(),g._26(1,["\n    "])),(l()(),g._7(0,null,1,5,"ion-list",[],null,null,null,null,null)),g._5(16384,null,0,bl.a,[Q.a,g.k,g.E,nl.a,rl.h,ul.a],null,null),(l()(),g._26(null,["\n      "])),(l()(),g._1(16777216,null,null,1,null,r)),g._5(802816,null,0,pl.h,[g.P,g.M,g.s],{ngForOf:[0,"ngForOf"]},null),(l()(),g._26(null,["\n    "])),(l()(),g._26(1,["\n  "])),(l()(),g._26(0,["\n\n"])),(l()(),g._26(null,["\n\n"])),(l()(),g._26(null,["\n"])),(l()(),g._7(0,null,null,2,"ion-nav",[["swipeBackEnabled","false"]],null,null,null,ml.b,ml.a)),g._23(6144,null,Y.a,null,[gl.a]),g._5(4374528,[[1,4],["content",4]],0,gl.a,[[2,tl.a],[2,fl.a],wl.a,Q.a,nl.a,g.k,g.y,g.E,g.j,rl.h,kl.a,[2,yl.a],ul.a,g.l],{swipeBackEnabled:[0,"swipeBackEnabled"],root:[1,"root"]},null)],function(l,n){var o=n.component;l(n,3,0,g._21(n,34)),l(n,26,0,o.pages);l(n,34,0,"false",o.rootPage)},function(l,n){l(n,10,0,g._21(n,11)._sbPadding),l(n,19,0,g._21(n,20).statusbarPadding,g._21(n,20)._hasRefresher)})}function w(l){return g._27(0,[(l()(),g._7(0,null,null,20,"ion-header",[],null,null,null,null,null)),g._5(16384,null,0,al.a,[Q.a,g.k,g.E,[2,tl.a]],null,null),(l()(),g._26(null,["\n  "])),(l()(),g._7(0,null,null,16,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Sl.b,Sl.a)),g._5(49152,null,0,cl.a,[wl.a,[2,tl.a],[2,fl.a],Q.a,g.k,g.E],null,null),(l()(),g._26(3,["\n    "])),(l()(),g._7(0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,o){var r=!0;return"click"===n&&(r=!1!==g._21(l,8).toggle()&&r),r},jl.b,jl.a)),g._5(1097728,[[1,4]],0,Ol.a,[[8,""],Q.a,g.k,g.E],null,null),g._5(1064960,null,0,Ll.a,[Z.a,[2,tl.a],[2,Ol.a],[2,cl.a]],{menuToggle:[0,"menuToggle"]},null),g._5(16384,null,1,xl.a,[Q.a,g.k,g.E,[2,il.a],[2,cl.a]],null,null),g._24(603979776,1,{_buttons:1}),(l()(),g._26(0,["\n      "])),(l()(),g._7(0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),g._5(147456,null,0,Nl.a,[Q.a,g.k,g.E],{name:[0,"name"]},null),(l()(),g._26(0,["\n    "])),(l()(),g._26(3,["\n    "])),(l()(),g._7(0,null,3,2,"ion-title",[],null,null,null,_l.b,_l.a)),g._5(49152,null,0,sl.a,[Q.a,g.k,g.E,[2,il.a],[2,cl.a]],null,null),(l()(),g._26(0,["\n      Bachelorarbeit - Tamer Karatekin\n    "])),(l()(),g._26(3,["\n  "])),(l()(),g._26(null,["\n"])),(l()(),g._26(null,["\n\n"])),(l()(),g._7(0,null,null,16,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,hl.b,hl.a)),g._5(4374528,null,0,dl.a,[Q.a,nl.a,ul.a,g.k,g.E,wl.a,ol.a,g.y,[2,tl.a],[2,fl.a]],null,null),(l()(),g._26(1,["\n  "])),(l()(),g._7(0,null,1,0,"img",[["src","/assets/img/systems.jpg"]],null,null,null,null,null)),(l()(),g._26(1,["\n  "])),(l()(),g._7(0,null,1,10,"ion-card",[],null,null,null,null,null)),g._5(16384,null,0,Tl.a,[Q.a,g.k,g.E],null,null),(l()(),g._26(null,["\n\n    "])),(l()(),g._7(0,null,null,6,"ion-card-content",[],null,null,null,null,null)),g._5(16384,null,0,Bl.a,[Q.a,g.k,g.E],null,null),(l()(),g._26(null,["\n      "])),(l()(),g._7(0,null,null,2,"ion-card-title",[],null,null,null,null,null)),g._5(16384,null,0,Ml.a,[Q.a,g.k,g.E],null,null),(l()(),g._26(null,["\n        Bachelorarbeit\n      "])),(l()(),g._26(null,["\n      Das ist die Beispielapplikation, die die Funktionalitäten des Frameworks testen wird.\n    "])),(l()(),g._26(null,["\n  "])),(l()(),g._26(1,["\n"])),(l()(),g._26(null,["\n"]))],function(l,n){l(n,8,0,"");l(n,13,0,"menu")},function(l,n){l(n,3,0,g._21(n,4)._hidden,g._21(n,4)._sbPadding),l(n,6,0,g._21(n,8).isHidden),l(n,12,0,g._21(n,13)._hidden),l(n,22,0,g._21(n,23).statusbarPadding,g._21(n,23)._hasRefresher)})}function a(l){return g._27(0,[(l()(),g._7(0,null,null,10,"ion-option",[],null,[[null,"ionSelect"]],function(l,n,o){var r=!0,u=l.component;return"ionSelect"===n&&(r=!1!==u.executeSql(o)&&r),r},null,null)),g._5(16384,[[4,4]],0,Fl.a,[g.k],{value:[0,"value"]},{ionSelect:"ionSelect"}),(l()(),g._26(null,["\n                        "])),(l()(),g._7(0,null,null,6,"ion-item",[["class","item item-block"]],null,null,null,W.b,W.a)),g._5(1097728,null,3,z.a,[K.a,Q.a,g.k,g.E,[2,U.a]],null,null),g._24(335544320,5,{contentLabel:0}),g._24(603979776,6,{_buttons:1}),g._24(603979776,7,{_icons:1}),g._5(16384,null,0,G.a,[],null,null),(l()(),g._26(2,["",""])),(l()(),g._26(null,["\n                    "]))],function(l,n){l(n,1,0,g._10(1,"",n.context.$implicit,""))},function(l,n){l(n,9,0,n.context.$implicit)})}function t(l){return g._27(0,[(l()(),g._7(0,null,null,10,"ion-option",[],null,[[null,"ionSelect"]],function(l,n,o){var r=!0,u=l.component;return"ionSelect"===n&&(r=!1!==u.executeNOSQL(l.context.$implicit)&&r),r},null,null)),g._5(16384,[[11,4]],0,Fl.a,[g.k],null,{ionSelect:"ionSelect"}),(l()(),g._26(null,["\n                        "])),(l()(),g._7(0,null,null,6,"ion-item",[["class","item item-block"]],null,null,null,W.b,W.a)),g._5(1097728,null,3,z.a,[K.a,Q.a,g.k,g.E,[2,U.a]],null,null),g._24(335544320,12,{contentLabel:0}),g._24(603979776,13,{_buttons:1}),g._24(603979776,14,{_icons:1}),g._5(16384,null,0,G.a,[],null,null),(l()(),g._26(2,["Name:"," Alter: ",""])),(l()(),g._26(null,["\n                    "]))],null,function(l,n){l(n,9,0,n.context.$implicit.name,n.context.$implicit.age)})}function e(l){return g._27(0,[(l()(),g._7(0,null,null,10,"ion-list",[],null,null,null,null,null)),g._5(16384,null,0,bl.a,[Q.a,g.k,g.E,nl.a,rl.h,ul.a],null,null),(l()(),g._26(null,["\n        "])),(l()(),g._7(0,null,null,6,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,W.b,W.a)),g._5(1097728,null,3,z.a,[K.a,Q.a,g.k,g.E,[2,U.a]],null,null),g._24(335544320,15,{contentLabel:0}),g._24(603979776,16,{_buttons:1}),g._24(603979776,17,{_icons:1}),g._5(16384,null,0,G.a,[],null,null),(l()(),g._26(2,["","\n        "])),(l()(),g._26(null,["\n    "]))],null,function(l,n){l(n,9,0,n.context.$implicit)})}function i(l){return g._27(0,[(l()(),g._7(0,null,null,10,"ion-header",[],null,null,null,null,null)),g._5(16384,null,0,al.a,[Q.a,g.k,g.E,[2,tl.a]],null,null),(l()(),g._26(null,["\n    "])),(l()(),g._7(0,null,null,6,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Sl.b,Sl.a)),g._5(49152,null,0,cl.a,[wl.a,[2,tl.a],[2,fl.a],Q.a,g.k,g.E],null,null),(l()(),g._26(3,["\n        "])),(l()(),g._7(0,null,3,2,"ion-title",[],null,null,null,_l.b,_l.a)),g._5(49152,null,0,sl.a,[Q.a,g.k,g.E,[2,il.a],[2,cl.a]],null,null),(l()(),g._26(0,["\n            Datenbank Test\n        "])),(l()(),g._26(3,["\n    "])),(l()(),g._26(null,["\n"])),(l()(),g._26(null,["\n\n"])),(l()(),g._7(0,null,null,67,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,hl.b,hl.a)),g._5(4374528,null,0,dl.a,[Q.a,nl.a,ul.a,g.k,g.E,wl.a,ol.a,g.y,[2,tl.a],[2,fl.a]],null,null),(l()(),g._26(1,["\n    "])),(l()(),g._7(0,null,1,27,"ion-card",[["class","card"]],null,null,null,null,null)),g._5(16384,null,0,Tl.a,[Q.a,g.k,g.E],null,null),(l()(),g._26(null,["\n        "])),(l()(),g._7(0,null,null,23,"ion-card-content",[],null,null,null,null,null)),g._5(16384,null,0,Bl.a,[Q.a,g.k,g.E],null,null),(l()(),g._26(null,["\n            "])),(l()(),g._7(0,null,null,2,"ion-card-title",[],null,null,null,null,null)),g._5(16384,null,0,Ml.a,[Q.a,g.k,g.E],null,null),(l()(),g._26(null,["\n                SQL Befehle\n            "])),(l()(),g._26(null,["\n            "])),(l()(),g._7(0,null,null,15,"ion-item",[["class","item item-block"]],null,null,null,W.b,W.a)),g._5(1097728,null,3,z.a,[K.a,Q.a,g.k,g.E,[2,U.a]],null,null),g._24(335544320,1,{contentLabel:0}),g._24(603979776,2,{_buttons:1}),g._24(603979776,3,{_icons:1}),g._5(16384,null,0,G.a,[],null,null),(l()(),g._26(2,["\n                "])),(l()(),g._7(0,null,3,7,"ion-select",[["cancelText","Abbrechen"],["interface","action-sheet"],["okText","SQL Befehl ausführen!"]],[[2,"select-disabled",null]],[[null,"click"],[null,"keyup.space"]],function(l,n,o){var r=!0;return"click"===n&&(r=!1!==g._21(l,34)._click(o)&&r),"keyup.space"===n&&(r=!1!==g._21(l,34)._keyup()&&r),r},ql.b,ql.a)),g._23(5120,null,Hl.e,function(l){return[l]},[Jl.a]),g._5(1228800,null,1,Jl.a,[wl.a,K.a,Q.a,g.k,g.E,[2,z.a],yl.a],{cancelText:[0,"cancelText"],okText:[1,"okText"],interface:[2,"interface"]},null),g._24(603979776,4,{options:1}),(l()(),g._26(null,["\n                    "])),(l()(),g._1(16777216,null,null,1,null,a)),g._5(802816,null,0,pl.h,[g.P,g.M,g.s],{ngForOf:[0,"ngForOf"]},null),(l()(),g._26(null,["\n                "])),(l()(),g._26(2,["\n            "])),(l()(),g._26(null,["\n        "])),(l()(),g._26(null,["\n    "])),(l()(),g._26(1,["\n\n    "])),(l()(),g._7(0,null,1,27,"ion-card",[["class","card"]],null,null,null,null,null)),g._5(16384,null,0,Tl.a,[Q.a,g.k,g.E],null,null),(l()(),g._26(null,["\n        "])),(l()(),g._7(0,null,null,23,"ion-card-content",[],null,null,null,null,null)),g._5(16384,null,0,Bl.a,[Q.a,g.k,g.E],null,null),(l()(),g._26(null,["\n            "])),(l()(),g._7(0,null,null,2,"ion-card-title",[],null,null,null,null,null)),g._5(16384,null,0,Ml.a,[Q.a,g.k,g.E],null,null),(l()(),g._26(null,["\n                NoSQL JSON Objekte\n            "])),(l()(),g._26(null,["\n            "])),(l()(),g._7(0,null,null,15,"ion-item",[["class","item item-block"]],null,null,null,W.b,W.a)),g._5(1097728,null,3,z.a,[K.a,Q.a,g.k,g.E,[2,U.a]],null,null),g._24(335544320,8,{contentLabel:0}),g._24(603979776,9,{_buttons:1}),g._24(603979776,10,{_icons:1}),g._5(16384,null,0,G.a,[],null,null),(l()(),g._26(2,["\n                "])),(l()(),g._7(0,null,3,7,"ion-select",[["cancelText","Abbrechen"],["interface","action-sheet"],["okText","JSON Objekt speichern!"]],[[2,"select-disabled",null]],[[null,"click"],[null,"keyup.space"]],function(l,n,o){var r=!0;return"click"===n&&(r=!1!==g._21(l,63)._click(o)&&r),"keyup.space"===n&&(r=!1!==g._21(l,63)._keyup()&&r),r},ql.b,ql.a)),g._23(5120,null,Hl.e,function(l){return[l]},[Jl.a]),g._5(1228800,null,1,Jl.a,[wl.a,K.a,Q.a,g.k,g.E,[2,z.a],yl.a],{cancelText:[0,"cancelText"],okText:[1,"okText"],interface:[2,"interface"]},null),g._24(603979776,11,{options:1}),(l()(),g._26(null,["\n                    "])),(l()(),g._1(16777216,null,null,1,null,t)),g._5(802816,null,0,pl.h,[g.P,g.M,g.s],{ngForOf:[0,"ngForOf"]},null),(l()(),g._26(null,["\n                "])),(l()(),g._26(2,["\n            "])),(l()(),g._26(null,["\n        "])),(l()(),g._26(null,["\n    "])),(l()(),g._26(1,["\n\n    "])),(l()(),g._7(0,null,1,2,"ion-label",[],null,null,null,null,null)),g._5(16384,null,0,Dl.a,[Q.a,g.k,g.E,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),g._26(null,["\n        History\n    "])),(l()(),g._26(1,["\n    "])),(l()(),g._1(16777216,null,1,1,null,e)),g._5(802816,null,0,pl.h,[g.P,g.M,g.s],{ngForOf:[0,"ngForOf"]},null),(l()(),g._26(1,["\n"]))],function(l,n){var o=n.component;l(n,34,0,"Abbrechen","SQL Befehl ausführen!","action-sheet"),l(n,38,0,o.queryList);l(n,63,0,"Abbrechen","JSON Objekt speichern!","action-sheet"),l(n,67,0,o.personList),l(n,78,0,o.historyCommands)},function(l,n){l(n,3,0,g._21(n,4)._hidden,g._21(n,4)._sbPadding),l(n,12,0,g._21(n,13).statusbarPadding,g._21(n,13)._hasRefresher),l(n,32,0,g._21(n,34)._disabled),l(n,61,0,g._21(n,63)._disabled)})}function _(l){return g._27(0,[(l()(),g._7(0,null,null,10,"ion-header",[],null,null,null,null,null)),g._5(16384,null,0,al.a,[Q.a,g.k,g.E,[2,tl.a]],null,null),(l()(),g._26(null,["\n  "])),(l()(),g._7(0,null,null,6,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Sl.b,Sl.a)),g._5(49152,null,0,cl.a,[wl.a,[2,tl.a],[2,fl.a],Q.a,g.k,g.E],null,null),(l()(),g._26(3,["\n    "])),(l()(),g._7(0,null,3,2,"ion-title",[],null,null,null,_l.b,_l.a)),g._5(49152,null,0,sl.a,[Q.a,g.k,g.E,[2,il.a],[2,cl.a]],null,null),(l()(),g._26(0,["\n      USB Test\n    "])),(l()(),g._26(3,["\n  "])),(l()(),g._26(null,["\n"])),(l()(),g._26(null,["\n\n"])),(l()(),g._7(0,null,null,8,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,hl.b,hl.a)),g._5(4374528,null,0,dl.a,[Q.a,nl.a,ul.a,g.k,g.E,wl.a,ol.a,g.y,[2,tl.a],[2,fl.a]],null,null),(l()(),g._26(1,["\n  "])),(l()(),g._7(0,null,1,0,"img",[["src","/assets/img/systems.jpg"]],null,null,null,null,null)),(l()(),g._26(1,["\n\n  "])),(l()(),g._7(0,null,1,2,"button",[["ion-button",""]],null,[[null,"click"]],function(l,n,o){var r=!0,u=l.component;return"click"===n&&(r=!1!==u.getUsbDevices()&&r),r},jl.b,jl.a)),g._5(1097728,null,0,Ol.a,[[8,""],Q.a,g.k,g.E],null,null),(l()(),g._26(0,[" USB Devices anzeigen "])),(l()(),g._26(1,["\n\n  ","\n"])),(l()(),g._26(null,["\n"]))],null,function(l,n){var o=n.component;l(n,3,0,g._21(n,4)._hidden,g._21(n,4)._sbPadding),l(n,12,0,g._21(n,13).statusbarPadding,g._21(n,13)._hasRefresher),l(n,20,0,o.devices)})}function s(l){return g._27(0,[(l()(),g._7(0,null,null,10,"ion-header",[],null,null,null,null,null)),g._5(16384,null,0,al.a,[Q.a,g.k,g.E,[2,tl.a]],null,null),(l()(),g._26(null,["\n    "])),(l()(),g._7(0,null,null,6,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Sl.b,Sl.a)),g._5(49152,null,0,cl.a,[wl.a,[2,tl.a],[2,fl.a],Q.a,g.k,g.E],null,null),(l()(),g._26(3,["\n        "])),(l()(),g._7(0,null,3,2,"ion-title",[],null,null,null,_l.b,_l.a)),g._5(49152,null,0,sl.a,[Q.a,g.k,g.E,[2,il.a],[2,cl.a]],null,null),(l()(),g._26(0,["\n            Network Test\n        "])),(l()(),g._26(3,["\n    "])),(l()(),g._26(null,["\n"])),(l()(),g._26(null,["\n\n"])),(l()(),g._7(0,null,null,45,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,hl.b,hl.a)),g._5(4374528,null,0,dl.a,[Q.a,nl.a,ul.a,g.k,g.E,wl.a,ol.a,g.y,[2,tl.a],[2,fl.a]],null,null),(l()(),g._26(1,["\n    "])),(l()(),g._7(0,null,1,0,"img",[["src","/assets/img/systems.jpg"]],null,null,null,null,null)),(l()(),g._26(1,["\n\n    "])),(l()(),g._7(0,null,1,2,"ion-label",[],null,null,null,null,null)),g._5(16384,null,0,Dl.a,[Q.a,g.k,g.E,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),g._26(null,[" Measure Test Result: ",""])),(l()(),g._26(1,["\n    "])),(l()(),g._7(0,null,1,35,"ion-list",[],null,null,null,null,null)),g._5(16384,null,0,bl.a,[Q.a,g.k,g.E,nl.a,rl.h,ul.a],null,null),(l()(),g._26(null,["\n        "])),(l()(),g._7(0,null,null,9,"ion-item",[["class","item item-block"]],null,null,null,W.b,W.a)),g._5(1097728,null,3,z.a,[K.a,Q.a,g.k,g.E,[2,U.a]],null,null),g._24(335544320,1,{contentLabel:0}),g._24(603979776,2,{_buttons:1}),g._24(603979776,3,{_icons:1}),g._5(16384,null,0,G.a,[],null,null),(l()(),g._26(2,[" "])),(l()(),g._7(0,null,2,2,"button",[["ion-button",""]],null,[[null,"click"]],function(l,n,o){var r=!0,u=l.component;return"click"===n&&(r=!1!==u.downloadSmall()&&r),r},jl.b,jl.a)),g._5(1097728,[[2,4]],0,Ol.a,[[8,""],Q.a,g.k,g.E],null,null),(l()(),g._26(0,[" Small JSON file"])),(l()(),g._26(null,["\n        "])),(l()(),g._7(0,null,null,9,"ion-item",[["class","item item-block"]],null,null,null,W.b,W.a)),g._5(1097728,null,3,z.a,[K.a,Q.a,g.k,g.E,[2,U.a]],null,null),g._24(335544320,4,{contentLabel:0}),g._24(603979776,5,{_buttons:1}),g._24(603979776,6,{_icons:1}),g._5(16384,null,0,G.a,[],null,null),(l()(),g._26(2,[" "])),(l()(),g._7(0,null,2,2,"button",[["ion-button",""]],null,[[null,"click"]],function(l,n,o){var r=!0,u=l.component;return"click"===n&&(r=!1!==u.downloadMedium()&&r),r},jl.b,jl.a)),g._5(1097728,[[5,4]],0,Ol.a,[[8,""],Q.a,g.k,g.E],null,null),(l()(),g._26(0,[" Merdium JSON file"])),(l()(),g._26(null,["\n        "])),(l()(),g._7(0,null,null,9,"ion-item",[["class","item item-block"]],null,null,null,W.b,W.a)),g._5(1097728,null,3,z.a,[K.a,Q.a,g.k,g.E,[2,U.a]],null,null),g._24(335544320,7,{contentLabel:0}),g._24(603979776,8,{_buttons:1}),g._24(603979776,9,{_icons:1}),g._5(16384,null,0,G.a,[],null,null),(l()(),g._26(2,[" "])),(l()(),g._7(0,null,2,2,"button",[["ion-button",""]],null,[[null,"click"]],function(l,n,o){var r=!0,u=l.component;return"click"===n&&(r=!1!==u.downloadLarge()&&r),r},jl.b,jl.a)),g._5(1097728,[[8,4]],0,Ol.a,[[8,""],Q.a,g.k,g.E],null,null),(l()(),g._26(0,[" Large JSON file"])),(l()(),g._26(null,["\n    "])),(l()(),g._26(1,["\n\n"])),(l()(),g._26(null,["\n"]))],null,function(l,n){var o=n.component;l(n,3,0,g._21(n,4)._hidden,g._21(n,4)._sbPadding),l(n,12,0,g._21(n,13).statusbarPadding,g._21(n,13)._hasRefresher),l(n,19,0,o.results)})}function c(l){return g._27(0,[(l()(),g._7(0,null,null,10,"ion-header",[],null,null,null,null,null)),g._5(16384,null,0,al.a,[Q.a,g.k,g.E,[2,tl.a]],null,null),(l()(),g._26(null,["\n  "])),(l()(),g._7(0,null,null,6,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Sl.b,Sl.a)),g._5(49152,null,0,cl.a,[wl.a,[2,tl.a],[2,fl.a],Q.a,g.k,g.E],null,null),(l()(),g._26(3,["\n    "])),(l()(),g._7(0,null,3,2,"ion-title",[],null,null,null,_l.b,_l.a)),g._5(49152,null,0,sl.a,[Q.a,g.k,g.E,[2,il.a],[2,cl.a]],null,null),(l()(),g._26(0,["\n      Native Test\n    "])),(l()(),g._26(3,["\n  "])),(l()(),g._26(null,["\n"])),(l()(),g._26(null,["\n\n"])),(l()(),g._7(0,null,null,8,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,hl.b,hl.a)),g._5(4374528,null,0,dl.a,[Q.a,nl.a,ul.a,g.k,g.E,wl.a,ol.a,g.y,[2,tl.a],[2,fl.a]],null,null),(l()(),g._26(1,["\n  "])),(l()(),g._7(0,null,1,0,"img",[["src","/assets/img/systems.jpg"]],null,null,null,null,null)),(l()(),g._26(1,["\n  "])),(l()(),g._7(0,null,1,2,"button",[["ion-button",""]],null,[[null,"click"]],function(l,n,o){var r=!0,u=l.component;return"click"===n&&(r=!1!==u.pushNot()&&r),r},jl.b,jl.a)),g._5(1097728,null,0,Ol.a,[[8,""],Q.a,g.k,g.E],null,null),(l()(),g._26(0,[" Erhalte eine lokale Pushbenachrichtigung! "])),(l()(),g._26(1,["\n\n"])),(l()(),g._26(null,["\n"])),(l()(),g._26(null,["\n"])),(l()(),g._26(null,["\n"])),(l()(),g._26(null,["\n"])),(l()(),g._26(null,["\n\n"])),(l()(),g._26(null,["\n"])),(l()(),g._26(null,["\n\n"])),(l()(),g._26(null,["\n"]))],null,function(l,n){l(n,3,0,g._21(n,4)._hidden,g._21(n,4)._sbPadding),l(n,12,0,g._21(n,13).statusbarPadding,g._21(n,13)._hasRefresher)})}function h(l){return g._27(0,[(l()(),g._7(0,null,null,6,"button",[["class","item item-block"],["ion-item",""]],null,null,null,W.b,W.a)),g._5(1097728,null,3,z.a,[K.a,Q.a,g.k,g.E,[2,U.a]],null,null),g._24(335544320,1,{contentLabel:0}),g._24(603979776,2,{_buttons:1}),g._24(603979776,3,{_icons:1}),g._5(16384,null,0,G.a,[],null,null),(l()(),g._26(2,["\n    ","\n  "]))],null,function(l,n){l(n,6,0,n.context.$implicit)})}function d(l){return g._27(0,[(l()(),g._7(0,null,null,8,"div",[],null,null,null,null,null)),(l()(),g._26(null,["\n    "])),(l()(),g._7(0,null,null,5,"ion-list",[["no-lines",""]],null,null,null,null,null)),g._5(16384,null,0,bl.a,[Q.a,g.k,g.E,nl.a,rl.h,ul.a],null,null),(l()(),g._26(null,["\n      "])),(l()(),g._1(16777216,null,null,1,null,h)),g._5(802816,null,0,pl.h,[g.P,g.M,g.s],{ngForOf:[0,"ngForOf"]},null),(l()(),g._26(null,["\n    "])),(l()(),g._26(null,["\n  "]))],function(l,n){l(n,6,0,n.component.rows)},null)}function f(l){return g._27(0,[(l()(),g._7(0,null,null,10,"ion-header",[],null,null,null,null,null)),g._5(16384,null,0,al.a,[Q.a,g.k,g.E,[2,tl.a]],null,null),(l()(),g._26(null,["\n  "])),(l()(),g._7(0,null,null,6,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Sl.b,Sl.a)),g._5(49152,null,0,cl.a,[wl.a,[2,tl.a],[2,fl.a],Q.a,g.k,g.E],null,null),(l()(),g._26(3,["\n    "])),(l()(),g._7(0,null,3,2,"ion-title",[],null,null,null,_l.b,_l.a)),g._5(49152,null,0,sl.a,[Q.a,g.k,g.E,[2,il.a],[2,cl.a]],null,null),(l()(),g._26(0,["\n      Performance Test\n    "])),(l()(),g._26(3,["\n  "])),(l()(),g._26(null,["\n"])),(l()(),g._26(null,["\n\n"])),(l()(),g._7(0,null,null,11,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,hl.b,hl.a)),g._5(4374528,null,0,dl.a,[Q.a,nl.a,ul.a,g.k,g.E,wl.a,ol.a,g.y,[2,tl.a],[2,fl.a]],null,null),(l()(),g._26(1,["\n  "])),(l()(),g._7(0,null,1,0,"img",[["src","/assets/img/systems.jpg"]],null,null,null,null,null)),(l()(),g._26(1,["\n  "])),(l()(),g._7(0,null,1,2,"button",[["ion-button",""]],null,[[null,"click"]],function(l,n,o){var r=!0,u=l.component;return"click"===n&&(r=!1!==u.showRows()&&r),r},jl.b,jl.a)),g._5(1097728,null,0,Ol.a,[[8,""],Q.a,g.k,g.E],null,null),(l()(),g._26(0,[" Test infinty List"])),(l()(),g._26(1,["\n  "])),(l()(),g._1(16777216,null,1,1,null,d)),g._5(16384,null,0,pl.i,[g.P,g.M],{ngIf:[0,"ngIf"]},null),(l()(),g._26(1,["\n"])),(l()(),g._26(null,["\n"]))],function(l,n){l(n,22,0,n.component.show)},function(l,n){l(n,3,0,g._21(n,4)._hidden,g._21(n,4)._sbPadding),l(n,12,0,g._21(n,13).statusbarPadding,g._21(n,13)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var b,p,m=o(28),g=o(0),k=(o(29),o(68)),y=o(69),v=function(){return function(l){this.navCtrl=l}}(),E=o(93),P=function(){function l(l,n){this.navCtrl=l,this.storage=n,this.queryList=[],this.historyCommands=[],this.personList=[],this.queryList.push("Create table BachelorIonic(name Varchar(32),address Varchar(32), birth int)"),this.queryList.push("Insert into BachelorIonic(Tamer, Subbelratherstraße 489 Köln, 26.06.1993)"),this.queryList.push("Insert into BachelorIonic(Steffen, Wiener Platz Köln, 01.03.1995)"),this.queryList.push("Update BachelorIonic set name = Manfred, address = Neumarkt Köln, birth = 10.09.1994 where name=steffen"),this.queryList.push("Select * from BachelorIonic"),this.queryList.push("Drop table BachelorIonic");var o={name:"Tamer",age:"24"},r={name:"Steffen",age:"22"},u={name:"Manfred",age:"23"};this.personList.push(o),this.personList.push(r),this.personList.push(u)}return l.prototype.executeSql=function(l){this.historyCommands.push(l)},l.prototype.executeNOSQL=function(l){var n=this;console.log(l),console.log(JSON.stringify(l)),this.historyCommands.push("Set json object: "+JSON.stringify(l)),this.storage.ready().then(function(){n.storage.set(l.name,l).then(function(l){console.log(l)}),n.storage.get(l.name).then(function(l){n.result=l})}).catch(function(l){return console.log(l)})},l}(),S=function(){function l(l){this.navCtrl=l,this.devices=[]}return l.prototype.getUsbDevices=function(){try{this.usbPlugin=cordova.chrome.usb,console.log(this.usbPlugin),this.usbPlugin.getDevices({},function(l){if(console.log(l),l)for(var n=0,o=l;n<o.length;n++){var r=o[n];console.log(r),this.devices.push(r)}},function(l){console.log(l)})}catch(l){console.log(l)}},l}(),j=o(70),O=(o(146),new g.z("basePath")),L=function(){return function(){}}(),x=this&&this.__decorate||function(l,n,o,r){var u,w=arguments.length,a=w<3?n:null===r?r=Object.getOwnPropertyDescriptor(n,o):r;if("object"==typeof Reflect&&"function"==typeof Reflect.decorate)a=Reflect.decorate(l,n,o,r);else for(var t=l.length-1;t>=0;t--)(u=l[t])&&(a=(w<3?u(a):w>3?u(n,o,a):u(n,o))||a);return w>3&&a&&Object.defineProperty(n,o,a),a},N=this&&this.__metadata||function(l,n){if("object"==typeof Reflect&&"function"==typeof Reflect.metadata)return Reflect.metadata(l,n)},T=this&&this.__param||function(l,n){return function(o,r){n(o,r,l)}},B=function(){function l(l,n,o){this.http=l,this.basePath="http://bachelor-bachelor.193b.starter-ca-central-1.openshiftapps.com",this.defaultHeaders=new j.d,this.configuration=new L,n&&(this.basePath=n),o&&(this.configuration=o)}return l.prototype.getLarge=function(l){return this.getLargeWithHttpInfo(l).map(function(l){return 204===l.status?void 0:l.json()})},l.prototype.getMedium=function(l){return this.getMediumWithHttpInfo(l).map(function(l){return 204===l.status?void 0:l.json()})},l.prototype.getSmall=function(l){return this.getSmallWithHttpInfo(l).map(function(l){return 204===l.status?void 0:l.json()})},l.prototype.getLargeWithHttpInfo=function(l){var n=this.basePath+"/large",o=new j.j,r=new j.d(this.defaultHeaders.toJSON()),u=new j.h({method:j.g.Get,headers:r,search:o});return l&&(u=Object.assign(u,l)),this.http.request(n,u)},l.prototype.getMediumWithHttpInfo=function(l){var n=this.basePath+"/medium",o=new j.j,r=new j.d(this.defaultHeaders.toJSON()),u=new j.h({method:j.g.Get,headers:r,search:o});return l&&(u=Object.assign(u,l)),this.http.request(n,u)},l.prototype.getSmallWithHttpInfo=function(l){var n=this.basePath+"/small",o=new j.j,r=new j.d(this.defaultHeaders.toJSON()),u=new j.h({method:j.g.Get,headers:r,search:o});return l&&(u=Object.assign(u,l)),this.http.request(n,u)},l}(),M=(B=x([Object(g.p)(),T(1,Object(g.A)()),T(1,Object(g.o)(O)),T(2,Object(g.A)()),N("design:paramtypes",["function"==typeof(b=void 0!==j.e&&j.e)&&b||Object,String,"function"==typeof(p=void 0!==L&&L)&&p||Object])],B),function(){function l(l,n){this.navCtrl=l,this.api=n,this.small=[],this.medium=[],this.large=[]}return l.prototype.downloadSmall=function(){var l=this;console.log("### downloadSmall clicked"),this.api.getSmall().subscribe(function(n){n?l.small.push(n):console.log("Fehler")})},l.prototype.downloadMedium=function(){var l=this;this.api.getMedium().subscribe(function(n){n?l.medium.push(n):console.log("Fehler")})},l.prototype.downloadLarge=function(){var l=this;this.api.getLarge().subscribe(function(n){n?l.large.push(n):console.log("Fehler")})},l}()),C=function(){function l(l,n){this.navCtrl=l,this.alertCtrl=n}return l.prototype.pushNot=function(){Notification.requestPermission(function(l){console.log("Notification permission status:",l),"granted"==l&&navigator.serviceWorker.getRegistration().then(function(l){var n={body:"Lokale Pushbenachrichtigungen!",icon:"../assets/img/systems.jpg",vibrate:[100,50,100],data:{dateOfArrival:Date.now(),primaryKey:1}};l.showNotification("Lokale Pushbenachrichtigungen",n)})})},l}(),R=function(){function l(l){this.navCtrl=l,this.rows=["row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2","row 1","row 2"],this.show=!1}return l.prototype.showRows=function(){this.show=!this.show},l}(),I=function(){function l(l,n,o){this.platform=l,this.statusBar=n,this.splashScreen=o,this.rootPage=v,this.initializeApp(),this.pages=[{title:"Home",component:v},{title:"Datenbank",component:P},{title:"Usb",component:S},{title:"Netzwerk",component:M},{title:"Native Komponenten",component:C},{title:"Performance",component:R}]}return l.prototype.initializeApp=function(){var l=this;this.platform.ready().then(function(){l.statusBar.styleDefault(),l.splashScreen.hide()})},l.prototype.openPage=function(l){this.nav.setRoot(l.component)},l}(),F=function(){return function(){}}(),q=o(49),H=o(147),J=o(148),D=o(149),A=o(150),$=o(151),W=o(54),z=o(22),K=o(16),Q=o(1),U=o(26),G=o(38),V=o(82),Z=o(23),X=o(152),Y=o(40),ll=o(62),nl=o(5),ol=o(15),rl=o(6),ul=o(7),wl=o(4),al=o(27),tl=o(3),el=o(153),il=o(19),_l=o(41),sl=o(24),cl=o(17),hl=o(42),dl=o(21),fl=o(13),bl=o(39),pl=o(11),ml=o(154),gl=o(52),kl=o(33),yl=o(18),vl=[],El=g._4({encapsulation:2,styles:vl,data:{}}),Pl=g._2("ng-component",I,function(l){return g._27(0,[(l()(),g._7(0,null,null,1,"ng-component",[],null,null,null,u,El)),g._5(49152,null,0,I,[nl.a,k.a,y.a],null,null)],null,null)},{},{},[]),Sl=o(46),jl=o(25),Ol=o(10),Ll=o(83),xl=o(87),Nl=o(36),Tl=o(59),Bl=o(60),Ml=o(61),Cl=[],Rl=g._4({encapsulation:2,styles:Cl,data:{}}),Il=g._2("page-home",v,function(l){return g._27(0,[(l()(),g._7(0,null,null,1,"page-home",[],null,null,null,w,Rl)),g._5(49152,null,0,v,[fl.a],null,null)],null,null)},{},{},[]),Fl=o(63),ql=o(155),Hl=o(30),Jl=o(66),Dl=o(37),Al=o(94),$l=[],Wl=g._4({encapsulation:2,styles:$l,data:{}}),zl=g._2("ng-component",P,function(l){return g._27(0,[(l()(),g._7(0,null,null,1,"ng-component",[],null,null,null,i,Wl)),g._5(49152,null,0,P,[fl.a,Al.a],null,null)],null,null)},{},{},[]),Kl=[],Ql=g._4({encapsulation:2,styles:Kl,data:{}}),Ul=g._2("ng-component",S,function(l){return g._27(0,[(l()(),g._7(0,null,null,1,"ng-component",[],null,null,null,_,Ql)),g._5(49152,null,0,S,[fl.a],null,null)],null,null)},{},{},[]),Gl=[],Vl=g._4({encapsulation:2,styles:Gl,data:{}}),Zl=g._2("ng-component",M,function(l){return g._27(0,[(l()(),g._7(0,null,null,1,"ng-component",[],null,null,null,s,Vl)),g._5(49152,null,0,M,[fl.a,B],null,null)],null,null)},{},{},[]),Xl=o(58),Yl=[],ln=g._4({encapsulation:2,styles:Yl,data:{}}),nn=g._2("ng-component",C,function(l){return g._27(0,[(l()(),g._7(0,null,null,1,"ng-component",[],null,null,null,c,ln)),g._5(49152,null,0,C,[fl.a,Xl.a],null,null)],null,null)},{},{},[]),on=[],rn=g._4({encapsulation:2,styles:on,data:{}}),un=g._2("ng-component",R,function(l){return g._27(0,[(l()(),g._7(0,null,null,1,"ng-component",[],null,null,null,f,rn)),g._5(49152,null,0,R,[fl.a],null,null)],null,null)},{},{},[]),wn=o(92),an=o(156),tn=o(89),en=o(64),_n=o(157),sn=o(115),cn=o(55),hn=o(53),dn=o(158),fn=o(159),bn=o(160),pn=o(88),mn=o(161),gn=o(114),kn=o(90),yn=o(86),vn=o(91),En=g._3(F,[q.b],function(l){return g._18([g._19(512,g.j,g.Z,[[8,[H.a,J.a,D.a,A.a,$.a,Pl,Il,zl,Ul,Zl,nn,un]],[3,g.j],g.w]),g._19(5120,g.u,g._17,[[3,g.u]]),g._19(4608,pl.k,pl.j,[g.u]),g._19(5120,g.b,g._8,[]),g._19(5120,g.s,g._14,[]),g._19(5120,g.t,g._15,[]),g._19(4608,m.c,m.s,[pl.c]),g._19(6144,g.I,null,[m.c]),g._19(4608,m.f,wn.a,[]),g._19(5120,m.d,function(l,n,o,r){return[new m.l(l),new m.p(n),new m.o(o,r)]},[pl.c,pl.c,pl.c,m.f]),g._19(4608,m.e,m.e,[m.d,g.y]),g._19(135680,m.n,m.n,[pl.c]),g._19(4608,m.m,m.m,[m.e,m.n]),g._19(6144,g.G,null,[m.m]),g._19(6144,m.q,null,[m.n]),g._19(4608,g.N,g.N,[g.y]),g._19(4608,m.h,m.h,[pl.c]),g._19(4608,m.j,m.j,[pl.c]),g._19(4608,j.c,j.c,[]),g._19(4608,j.i,j.b,[]),g._19(5120,j.l,j.m,[]),g._19(4608,j.k,j.k,[j.c,j.i,j.l]),g._19(4608,j.h,j.a,[]),g._19(5120,j.e,j.n,[j.k,j.h]),g._19(4608,Hl.k,Hl.k,[]),g._19(4608,Hl.c,Hl.c,[]),g._19(4608,an.a,an.a,[wl.a,Q.a]),g._19(4608,Xl.a,Xl.a,[wl.a,Q.a]),g._19(4608,tn.a,tn.a,[]),g._19(4608,K.a,K.a,[]),g._19(4608,en.a,en.a,[nl.a]),g._19(4608,ol.a,ol.a,[Q.a,nl.a,g.y,ul.a]),g._19(4608,_n.a,_n.a,[wl.a,Q.a]),g._19(5120,pl.f,sn.b,[pl.p,[2,pl.a],Q.a]),g._19(4608,pl.e,pl.e,[pl.f]),g._19(5120,cn.b,cn.d,[wl.a,cn.a]),g._19(5120,yl.a,yl.b,[wl.a,cn.b,pl.e,hn.b,g.j]),g._19(4608,dn.a,dn.a,[wl.a,Q.a,yl.a]),g._19(4608,fn.a,fn.a,[wl.a,Q.a]),g._19(4608,bn.a,bn.a,[wl.a,Q.a,yl.a]),g._19(4608,pn.a,pn.a,[Q.a,nl.a,ul.a,wl.a,rl.h]),g._19(4608,mn.a,mn.a,[wl.a,Q.a]),g._19(4608,kl.a,kl.a,[nl.a,Q.a]),g._19(5120,Al.a,Al.c,[Al.b]),g._19(4608,k.a,k.a,[]),g._19(4608,y.a,y.a,[]),g._19(4608,B,B,[j.e,[2,O],[2,L]]),g._19(512,pl.b,pl.b,[]),g._19(512,g.l,gn.a,[]),g._19(256,Q.b,null,[]),g._19(1024,kn.a,kn.b,[]),g._19(1024,nl.a,nl.b,[m.b,kn.a,g.y]),g._19(1024,Q.a,Q.c,[Q.b,nl.a]),g._19(512,ul.a,ul.a,[nl.a]),g._19(512,Z.a,Z.a,[]),g._19(512,wl.a,wl.a,[Q.a,nl.a,[2,Z.a]]),g._19(512,rl.h,rl.h,[wl.a]),g._19(256,cn.a,null,[]),g._19(512,g.i,g.i,[]),g._19(512,yn.a,yn.a,[g.i]),g._19(1024,hn.b,hn.c,[yn.a,g.r]),g._19(1024,g.c,function(l,n,o,r,u,w,a,t,e,i,_,s,c,h){return[m.r(l,n),vn.a(o),tn.b(r,u),pn.b(w,a,t,e,i),hn.d(_,s,c,h)]},[[2,m.i],[2,g.x],Q.a,nl.a,ul.a,Q.a,nl.a,ul.a,wl.a,rl.h,Q.a,cn.a,hn.b,g.y]),g._19(512,g.d,g.d,[[2,g.c]]),g._19(131584,g._6,g._6,[g.y,g._0,g.r,g.l,g.j,g.d]),g._19(2048,g.f,null,[g._6]),g._19(512,g.e,g.e,[g.f]),g._19(512,m.a,m.a,[[3,m.a]]),g._19(512,j.f,j.f,[]),g._19(512,Hl.j,Hl.j,[]),g._19(512,Hl.d,Hl.d,[]),g._19(512,Hl.i,Hl.i,[]),g._19(512,sn.a,sn.a,[]),g._19(512,E.a,E.a,[]),g._19(512,F,F,[]),g._19(256,q.a,I,[]),g._19(256,pl.a,"/",[]),g._19(256,Al.b,null,[])])});Object(g.T)(),Object(m.k)().bootstrapModuleFactory(En)}},[118]);
+webpackJsonp([0],{
+
+/***/ 100:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return DefaultApi; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(101);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map__ = __webpack_require__(274);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__variables__ = __webpack_require__(275);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__configuration__ = __webpack_require__(276);
+/**
+ * <API für die Bachelorarbeit APP>
+ * No description provided (generated by Swagger Codegen https://github.com/swagger-api/swagger-codegen)
+ *
+ * OpenAPI spec version: 0.0.1
+ *
+ *
+ * NOTE: This class is auto generated by the swagger code generator program.
+ * https://github.com/swagger-api/swagger-codegen.git
+ * Do not edit the class manually.
+ */
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+var __param = (this && this.__param) || function (paramIndex, decorator) {
+    return function (target, key) { decorator(target, key, paramIndex); }
+};
+
+
+
+
+
+
+/* tslint:disable:no-unused-variable member-ordering */
+var DefaultApi = (function () {
+    function DefaultApi(http, basePath, configuration) {
+        this.http = http;
+        this.basePath = 'http://bachelor-bachelor.193b.starter-ca-central-1.openshiftapps.com';
+        this.defaultHeaders = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["a" /* Headers */]();
+        this.configuration = new __WEBPACK_IMPORTED_MODULE_4__configuration__["a" /* Configuration */]();
+        if (basePath) {
+            this.basePath = basePath;
+        }
+        if (configuration) {
+            this.configuration = configuration;
+        }
+    }
+    /**
+     *
+     * Returns a json file.
+     */
+    DefaultApi.prototype.getLarge = function (extraHttpRequestParams) {
+        return this.getLargeWithHttpInfo(extraHttpRequestParams)
+            .map(function (response) {
+            if (response.status === 204) {
+                return undefined;
+            }
+            else {
+                return response.json();
+            }
+        });
+    };
+    /**
+     *
+     * Returns a json file.
+     */
+    DefaultApi.prototype.getMedium = function (extraHttpRequestParams) {
+        return this.getMediumWithHttpInfo(extraHttpRequestParams)
+            .map(function (response) {
+            if (response.status === 204) {
+                return undefined;
+            }
+            else {
+                return response.json();
+            }
+        });
+    };
+    /**
+     *
+     * Returns a json file.
+     */
+    DefaultApi.prototype.getSmall = function (extraHttpRequestParams) {
+        return this.getSmallWithHttpInfo(extraHttpRequestParams)
+            .map(function (response) {
+            if (response.status === 204) {
+                return undefined;
+            }
+            else {
+                return response.json();
+            }
+        });
+    };
+    /**
+     *
+     * Returns a json file.
+     */
+    DefaultApi.prototype.getLargeWithHttpInfo = function (extraHttpRequestParams) {
+        var path = this.basePath + "/large";
+        var queryParameters = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["f" /* URLSearchParams */]();
+        var headers = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["a" /* Headers */](this.defaultHeaders.toJSON()); // https://github.com/angular/angular/issues/6845
+        // to determine the Content-Type header
+        var consumes = [];
+        // to determine the Accept header
+        var produces = [
+            'application/json'
+        ];
+        var requestOptions = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["e" /* RequestOptions */]({
+            method: __WEBPACK_IMPORTED_MODULE_1__angular_http__["d" /* RequestMethod */].Get,
+            headers: headers,
+            search: queryParameters
+        });
+        // https://github.com/swagger-api/swagger-codegen/issues/4037
+        if (extraHttpRequestParams) {
+            requestOptions = Object.assign(requestOptions, extraHttpRequestParams);
+        }
+        return this.http.request(path, requestOptions);
+    };
+    /**
+     *
+     * Returns a json file.
+     */
+    DefaultApi.prototype.getMediumWithHttpInfo = function (extraHttpRequestParams) {
+        var path = this.basePath + "/medium";
+        var queryParameters = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["f" /* URLSearchParams */]();
+        var headers = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["a" /* Headers */](this.defaultHeaders.toJSON()); // https://github.com/angular/angular/issues/6845
+        // to determine the Content-Type header
+        var consumes = [];
+        // to determine the Accept header
+        var produces = [
+            'application/json'
+        ];
+        var requestOptions = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["e" /* RequestOptions */]({
+            method: __WEBPACK_IMPORTED_MODULE_1__angular_http__["d" /* RequestMethod */].Get,
+            headers: headers,
+            search: queryParameters
+        });
+        // https://github.com/swagger-api/swagger-codegen/issues/4037
+        if (extraHttpRequestParams) {
+            requestOptions = Object.assign(requestOptions, extraHttpRequestParams);
+        }
+        return this.http.request(path, requestOptions);
+    };
+    /**
+     *
+     * Returns a json file.
+     */
+    DefaultApi.prototype.getSmallWithHttpInfo = function (extraHttpRequestParams) {
+        var path = this.basePath + "/small";
+        var queryParameters = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["f" /* URLSearchParams */]();
+        var headers = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["a" /* Headers */](this.defaultHeaders.toJSON()); // https://github.com/angular/angular/issues/6845
+        // to determine the Content-Type header
+        var consumes = [];
+        // to determine the Accept header
+        var produces = [
+            'application/json'
+        ];
+        var requestOptions = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["e" /* RequestOptions */]({
+            method: __WEBPACK_IMPORTED_MODULE_1__angular_http__["d" /* RequestMethod */].Get,
+            headers: headers,
+            search: queryParameters
+        });
+        // https://github.com/swagger-api/swagger-codegen/issues/4037
+        if (extraHttpRequestParams) {
+            requestOptions = Object.assign(requestOptions, extraHttpRequestParams);
+        }
+        return this.http.request(path, requestOptions);
+    };
+    return DefaultApi;
+}());
+DefaultApi = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Injectable */])(),
+    __param(1, Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */])()), __param(1, Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Inject */])(__WEBPACK_IMPORTED_MODULE_3__variables__["a" /* BASE_PATH */])), __param(2, Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */])()),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_http__["b" /* Http */], String, __WEBPACK_IMPORTED_MODULE_4__configuration__["a" /* Configuration */]])
+], DefaultApi);
+
+//# sourceMappingURL=DefaultApi.js.map
+
+/***/ }),
+
+/***/ 109:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 109;
+
+/***/ }),
+
+/***/ 151:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 151;
+
+/***/ }),
+
+/***/ 195:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HomePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(20);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var HomePage = (function () {
+    function HomePage(navCtrl) {
+        this.navCtrl = navCtrl;
+    }
+    return HomePage;
+}());
+HomePage = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
+        selector: 'page-home',template:/*ion-inline-start:"/home/tamer/workspace/bachelor_pwa/src/pages/home/home.html"*/'<ion-header>\n  <ion-navbar>\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>\n      Bachelorarbeit - Tamer Karatekin\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <img src="/assets/img/systems.jpg" />\n  <ion-card>\n\n    <ion-card-content>\n      <ion-card-title>\n        Bachelorarbeit\n      </ion-card-title>\n      Das ist die Beispielapplikation, die die Funktionalitäten des Frameworks testen wird.\n    </ion-card-content>\n  </ion-card>\n</ion-content>\n'/*ion-inline-end:"/home/tamer/workspace/bachelor_pwa/src/pages/home/home.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */]])
+], HomePage);
+
+//# sourceMappingURL=home.js.map
+
+/***/ }),
+
+/***/ 196:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* unused harmony export Person */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return DbTestPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_storage__ = __webpack_require__(197);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var Person = (function () {
+    function Person(name, age) {
+        this.name = name;
+        this.age = age;
+    }
+    Person.prototype.getName = function () {
+        return this.name;
+    };
+    Person.prototype.getAge = function () {
+        return this.age;
+    };
+    return Person;
+}());
+
+var DbTestPage = (function () {
+    function DbTestPage(navCtrl, storage) {
+        this.navCtrl = navCtrl;
+        this.storage = storage;
+        this.queryList = [];
+        this.historyCommands = [];
+        this.personList = [];
+        //querys for sql database
+        this.queryList.push("Create table BachelorIonic(name Varchar(32),address Varchar(32), birth int)");
+        this.queryList.push("Insert into BachelorIonic(Tamer, Subbelratherstraße 489 Köln, 26.06.1993)");
+        this.queryList.push("Insert into BachelorIonic(Steffen, Wiener Platz Köln, 01.03.1995)");
+        this.queryList.push("Update BachelorIonic set name = Manfred, address = Neumarkt Köln, birth = 10.09.1994 where name=steffen");
+        this.queryList.push("Select * from BachelorIonic");
+        this.queryList.push("Drop table BachelorIonic");
+        var tamer = {
+            name: "Tamer",
+            age: "24"
+        };
+        var steffen = {
+            name: "Steffen",
+            age: "22"
+        };
+        var manfred = {
+            name: "Manfred",
+            age: "23"
+        };
+        this.personList.push(tamer);
+        this.personList.push(steffen);
+        this.personList.push(manfred);
+    }
+    DbTestPage.prototype.executeSql = function (query) {
+        this.historyCommands.push(query);
+        // this.sqlite.create({
+        //   name: this.dbname,
+        //   location: "default"
+        // }).then((db: SQLiteObject) => {
+        //   db.executeSql(query, {}).then(() => {
+        //     console.log("Sql query succesfull executed");
+        //   })
+        // }).catch(err => {
+        //   console.log(err);
+        // });
+    };
+    DbTestPage.prototype.executeNOSQL = function (person) {
+        var _this = this;
+        console.log(person);
+        //console.log(this.personObject.getName());
+        console.log(JSON.stringify(person));
+        this.historyCommands.push("Set json object: " + JSON.stringify(person));
+        this.storage.ready().then(function () {
+            _this.storage.set(person.name, person).then(function (result) {
+                console.log(result);
+            });
+            _this.storage.get(person.name).then(function (val) {
+                _this.result = val;
+            });
+        }).catch(function (e) { return console.log(e); });
+    };
+    ;
+    return DbTestPage;
+}());
+DbTestPage = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/home/tamer/workspace/bachelor_pwa/src/pages/dbTest/dbTest.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>\n            Datenbank Test\n        </ion-title>\n    </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n    <ion-card class="card">\n        <ion-card-content>\n            <ion-card-title>\n                SQL Befehle\n            </ion-card-title>\n            <ion-item>\n                <ion-select cancelText="Abbrechen" okText="SQL Befehl ausführen!" interface="action-sheet">\n                    <ion-option *ngFor="let item of queryList" value="{{item}}" (ionSelect)="executeSql($event)">\n                        <ion-item>{{item}}</ion-item>\n                    </ion-option>\n                </ion-select>\n            </ion-item>\n        </ion-card-content>\n    </ion-card>\n\n    <ion-card class="card">\n        <ion-card-content>\n            <ion-card-title>\n                NoSQL JSON Objekte\n            </ion-card-title>\n            <ion-item>\n                <ion-select cancelText="Abbrechen" okText="JSON Objekt speichern!" interface="action-sheet">\n                    <ion-option *ngFor="let person of personList" (ionSelect)="executeNOSQL(person)">\n                        <ion-item>Name:{{person.name}} Alter: {{person.age}}</ion-item>\n                    </ion-option>\n                </ion-select>\n            </ion-item>\n        </ion-card-content>\n    </ion-card>\n\n    <ion-label>\n        History\n    </ion-label>\n    <ion-list *ngFor="let cmd of historyCommands">\n        <ion-item text-wrap>{{cmd}}\n        </ion-item>\n    </ion-list>\n</ion-content>'/*ion-inline-end:"/home/tamer/workspace/bachelor_pwa/src/pages/dbTest/dbTest.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */],
+        __WEBPACK_IMPORTED_MODULE_2__ionic_storage__["b" /* Storage */]])
+], DbTestPage);
+
+//# sourceMappingURL=dbTest.js.map
+
+/***/ }),
+
+/***/ 198:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return USBTestPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(20);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var USBTestPage = (function () {
+    function USBTestPage(navCtrl) {
+        this.navCtrl = navCtrl;
+        this.devices = [];
+    }
+    USBTestPage.prototype.getUsbDevices = function () {
+        try {
+            this.usbPlugin = cordova.chrome.usb;
+            console.log(this.usbPlugin);
+            this.usbPlugin.getDevices({}, function (found_devices) {
+                console.log(found_devices);
+                if (found_devices) {
+                    for (var _i = 0, found_devices_1 = found_devices; _i < found_devices_1.length; _i++) {
+                        var device = found_devices_1[_i];
+                        console.log(device);
+                        this.devices.push(device);
+                    }
+                }
+            }, function (err) {
+                console.log(err);
+            });
+        }
+        catch (err) {
+            console.log(err);
+        }
+        ;
+    };
+    return USBTestPage;
+}());
+USBTestPage = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/home/tamer/workspace/bachelor_pwa/src/pages/usbTest/usbTest.html"*/'<ion-header>\n\n  <ion-navbar>\n\n    <ion-title>\n\n      USB Test\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content padding>\n\n  <img src="/assets/img/systems.jpg" />\n\n\n\n  <button ion-button (click)="getUsbDevices()"> USB Devices anzeigen </button>\n\n\n\n  {{devices}}\n\n</ion-content>\n\n'/*ion-inline-end:"/home/tamer/workspace/bachelor_pwa/src/pages/usbTest/usbTest.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */]])
+], USBTestPage);
+
+//# sourceMappingURL=usbTest.js.map
+
+/***/ }),
+
+/***/ 199:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NetworkTestPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__api_api__ = __webpack_require__(273);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var NetworkTestPage = (function () {
+    function NetworkTestPage(navCtrl, api) {
+        this.navCtrl = navCtrl;
+        this.api = api;
+        this.small = [];
+        this.medium = [];
+        this.large = [];
+    }
+    NetworkTestPage.prototype.downloadSmall = function () {
+        var _this = this;
+        console.log("### downloadSmall clicked");
+        this.api.getSmall().subscribe(function (result) {
+            if (result) {
+                _this.small.push(result);
+            }
+            else {
+                console.log("Fehler");
+            }
+        });
+    };
+    ;
+    NetworkTestPage.prototype.downloadMedium = function () {
+        var _this = this;
+        this.api.getMedium().subscribe(function (result) {
+            if (result) {
+                _this.medium.push(result);
+            }
+            else {
+                console.log("Fehler");
+            }
+        });
+    };
+    ;
+    NetworkTestPage.prototype.downloadLarge = function () {
+        var _this = this;
+        this.api.getLarge().subscribe(function (result) {
+            if (result) {
+                _this.large.push(result);
+            }
+            else {
+                console.log("Fehler");
+            }
+        });
+    };
+    ;
+    return NetworkTestPage;
+}());
+NetworkTestPage = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/home/tamer/workspace/bachelor_pwa/src/pages/networkTest/networkTest.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>\n            Network Test\n        </ion-title>\n    </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n    <img src="/assets/img/systems.jpg" />\n\n    <ion-label> Measure Test Result: {{results}}</ion-label>\n    <ion-list>\n        <ion-item> <button ion-button (click)="downloadSmall()"> Small JSON file</button></ion-item>\n        <ion-item> <button ion-button (click)="downloadMedium()"> Merdium JSON file</button></ion-item>\n        <ion-item> <button ion-button (click)="downloadLarge()"> Large JSON file</button></ion-item>\n    </ion-list>\n\n</ion-content>\n'/*ion-inline-end:"/home/tamer/workspace/bachelor_pwa/src/pages/networkTest/networkTest.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */],
+        __WEBPACK_IMPORTED_MODULE_2__api_api__["a" /* DefaultApi */]])
+], NetworkTestPage);
+
+//# sourceMappingURL=networkTest.js.map
+
+/***/ }),
+
+/***/ 200:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NativeTestPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(20);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var NativeTestPage = (function () {
+    function NativeTestPage(navCtrl, alertCtrl) {
+        this.navCtrl = navCtrl;
+        this.alertCtrl = alertCtrl;
+    }
+    NativeTestPage.prototype.pushNot = function () {
+        Notification.requestPermission(function (status) {
+            console.log('Notification permission status:', status);
+            if (status == 'granted') {
+                navigator.serviceWorker.getRegistration().then(function (reg) {
+                    var options = {
+                        body: 'Lokale Pushbenachrichtigungen!',
+                        icon: '../assets/img/systems.jpg',
+                        vibrate: [100, 50, 100],
+                        data: {
+                            dateOfArrival: Date.now(),
+                            primaryKey: 1
+                        }
+                    };
+                    reg.showNotification('Lokale Pushbenachrichtigungen', options);
+                });
+            }
+        });
+    };
+    return NativeTestPage;
+}());
+NativeTestPage = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/home/tamer/workspace/bachelor_pwa/src/pages/nativeTest/nativeTest.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      Native Test\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <img src="/assets/img/systems.jpg" />\n  <button ion-button (click)="pushNot()"> Erhalte eine lokale Pushbenachrichtigung! </button>\n\n</ion-content>\n<script src="https://www.gstatic.com/firebasejs/4.2.0/firebase-app.js"></script>\n<script src="https://www.gstatic.com/firebasejs/4.2.0/firebase-auth.js"></script>\n<script src="https://www.gstatic.com/firebasejs/4.2.0/firebase-database.js"></script>\n<script src="https://www.gstatic.com/firebasejs/4.2.0/firebase-messaging.js"></script>\n\n<!-- Leave out Storage -->\n<!-- <script src="https://www.gstatic.com/firebasejs/4.2.0/firebase-storage.js"></script> -->\n\n<script>\nvar config = {\n   apiKey: "AIzaSyBl2GElLuuCSgwIWBUNRBDz21jl7X-zglw",\n   authDomain: "bachelorarbeit-e3eba.firebaseapp.com",\n   databaseURL: "https://bachelorarbeit-e3eba.firebaseio.com",\n   projectId: "bachelorarbeit-e3eba",\n   storageBucket: "bachelorarbeit-e3eba.appspot.com",\n   messagingSenderId: "360244316212"\n };\n firebase.initializeApp(config);\n </script>\n'/*ion-inline-end:"/home/tamer/workspace/bachelor_pwa/src/pages/nativeTest/nativeTest.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* AlertController */]])
+], NativeTestPage);
+
+//# sourceMappingURL=nativeTest.js.map
+
+/***/ }),
+
+/***/ 201:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return PerformanceTestPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(20);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var PerformanceTestPage = (function () {
+    function PerformanceTestPage(navCtrl) {
+        this.navCtrl = navCtrl;
+        this.rows = [
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+            'row 1',
+            'row 2',
+        ];
+        this.show = false;
+    }
+    PerformanceTestPage.prototype.showRows = function () {
+        if (this.show) {
+            this.show = false;
+        }
+        else {
+            this.show = true;
+        }
+    };
+    return PerformanceTestPage;
+}());
+PerformanceTestPage = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/home/tamer/workspace/bachelor_pwa/src/pages/performanceTest/performanceTest.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      Performance Test\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <img src="/assets/img/systems.jpg" />\n  <button ion-button (click)="showRows()"> Test infinty List</button>\n  <div *ngIf="show">\n    <ion-list no-lines>\n      <button ion-item *ngFor="let row of rows" >\n    {{ row }}\n  </button>\n    </ion-list>\n  </div>\n</ion-content>\n'/*ion-inline-end:"/home/tamer/workspace/bachelor_pwa/src/pages/performanceTest/performanceTest.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */]])
+], PerformanceTestPage);
+
+//# sourceMappingURL=performanceTest.js.map
+
+/***/ }),
+
+/***/ 202:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(203);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_module__ = __webpack_require__(221);
+
+
+Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_1__app_module__["a" /* AppModule */]);
+//# sourceMappingURL=main.js.map
+
+/***/ }),
+
+/***/ 221:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(26);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__app_component__ = __webpack_require__(261);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__pages_home_home__ = __webpack_require__(195);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__pages_dbTest_dbTest__ = __webpack_require__(196);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pages_usbTest_usbTest__ = __webpack_require__(198);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__pages_networkTest_networkTest__ = __webpack_require__(199);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__pages_nativeTest_nativeTest__ = __webpack_require__(200);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__pages_performanceTest_performanceTest__ = __webpack_require__(201);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__ionic_native_status_bar__ = __webpack_require__(191);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__ionic_native_splash_screen__ = __webpack_require__(194);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__ionic_storage__ = __webpack_require__(197);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__api_DefaultApi__ = __webpack_require__(100);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__angular_http__ = __webpack_require__(101);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+//Pages
+
+
+
+
+
+
+
+
+
+
+
+var AppModule = (function () {
+    function AppModule() {
+    }
+    return AppModule;
+}());
+AppModule = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["L" /* NgModule */])({
+        declarations: [
+            __WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */],
+            __WEBPACK_IMPORTED_MODULE_4__pages_home_home__["a" /* HomePage */],
+            __WEBPACK_IMPORTED_MODULE_5__pages_dbTest_dbTest__["a" /* DbTestPage */],
+            __WEBPACK_IMPORTED_MODULE_6__pages_usbTest_usbTest__["a" /* USBTestPage */],
+            __WEBPACK_IMPORTED_MODULE_7__pages_networkTest_networkTest__["a" /* NetworkTestPage */],
+            __WEBPACK_IMPORTED_MODULE_8__pages_nativeTest_nativeTest__["a" /* NativeTestPage */],
+            __WEBPACK_IMPORTED_MODULE_9__pages_performanceTest_performanceTest__["a" /* PerformanceTestPage */]
+        ],
+        imports: [
+            __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
+            __WEBPACK_IMPORTED_MODULE_14__angular_http__["c" /* HttpModule */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["d" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */]),
+            __WEBPACK_IMPORTED_MODULE_12__ionic_storage__["a" /* IonicStorageModule */].forRoot()
+        ],
+        bootstrap: [__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["b" /* IonicApp */]],
+        entryComponents: [
+            __WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */],
+            __WEBPACK_IMPORTED_MODULE_4__pages_home_home__["a" /* HomePage */],
+            __WEBPACK_IMPORTED_MODULE_5__pages_dbTest_dbTest__["a" /* DbTestPage */],
+            __WEBPACK_IMPORTED_MODULE_6__pages_usbTest_usbTest__["a" /* USBTestPage */],
+            __WEBPACK_IMPORTED_MODULE_7__pages_networkTest_networkTest__["a" /* NetworkTestPage */],
+            __WEBPACK_IMPORTED_MODULE_8__pages_nativeTest_nativeTest__["a" /* NativeTestPage */],
+            __WEBPACK_IMPORTED_MODULE_9__pages_performanceTest_performanceTest__["a" /* PerformanceTestPage */]
+        ],
+        providers: [
+            __WEBPACK_IMPORTED_MODULE_10__ionic_native_status_bar__["a" /* StatusBar */],
+            __WEBPACK_IMPORTED_MODULE_11__ionic_native_splash_screen__["a" /* SplashScreen */],
+            __WEBPACK_IMPORTED_MODULE_13__api_DefaultApi__["a" /* DefaultApi */],
+            { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["v" /* ErrorHandler */], useClass: __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["c" /* IonicErrorHandler */] }
+        ]
+    })
+], AppModule);
+
+//# sourceMappingURL=app.module.js.map
+
+/***/ }),
+
+/***/ 261:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MyApp; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__ = __webpack_require__(191);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__ = __webpack_require__(194);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__pages_home_home__ = __webpack_require__(195);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__pages_dbTest_dbTest__ = __webpack_require__(196);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pages_usbTest_usbTest__ = __webpack_require__(198);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__pages_networkTest_networkTest__ = __webpack_require__(199);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__pages_nativeTest_nativeTest__ = __webpack_require__(200);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__pages_performanceTest_performanceTest__ = __webpack_require__(201);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+//Pages
+
+
+
+
+
+
+var MyApp = (function () {
+    function MyApp(platform, statusBar, splashScreen) {
+        this.platform = platform;
+        this.statusBar = statusBar;
+        this.splashScreen = splashScreen;
+        this.rootPage = __WEBPACK_IMPORTED_MODULE_4__pages_home_home__["a" /* HomePage */];
+        this.initializeApp();
+        // used for an example of ngFor and navigation
+        this.pages = [
+            { title: 'Home', component: __WEBPACK_IMPORTED_MODULE_4__pages_home_home__["a" /* HomePage */] },
+            { title: 'Datenbank', component: __WEBPACK_IMPORTED_MODULE_5__pages_dbTest_dbTest__["a" /* DbTestPage */] },
+            { title: 'Usb', component: __WEBPACK_IMPORTED_MODULE_6__pages_usbTest_usbTest__["a" /* USBTestPage */] },
+            { title: 'Netzwerk', component: __WEBPACK_IMPORTED_MODULE_7__pages_networkTest_networkTest__["a" /* NetworkTestPage */] },
+            { title: 'Native Komponenten', component: __WEBPACK_IMPORTED_MODULE_8__pages_nativeTest_nativeTest__["a" /* NativeTestPage */] },
+            { title: 'Performance', component: __WEBPACK_IMPORTED_MODULE_9__pages_performanceTest_performanceTest__["a" /* PerformanceTestPage */] },
+        ];
+    }
+    MyApp.prototype.initializeApp = function () {
+        var _this = this;
+        this.platform.ready().then(function () {
+            // Okay, so the platform is ready and our plugins are available.
+            // Here you can do any higher level native things you might need.
+            _this.statusBar.styleDefault();
+            _this.splashScreen.hide();
+        });
+    };
+    MyApp.prototype.openPage = function (page) {
+        // Reset the content nav to have just this page
+        // we wouldn't want the back button to show in this scenario
+        this.nav.setRoot(page.component);
+    };
+    return MyApp;
+}());
+__decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_14" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* Nav */]),
+    __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* Nav */])
+], MyApp.prototype, "nav", void 0);
+MyApp = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/home/tamer/workspace/bachelor_pwa/src/app/app.html"*/'<ion-menu [content]="content">\n  <ion-header>\n    <ion-toolbar>\n      <ion-title>Menu</ion-title>\n    </ion-toolbar>\n  </ion-header>\n\n  <ion-content>\n    <ion-list>\n      <button menuClose ion-item *ngFor="let p of pages" (click)="openPage(p)">\n        {{p.title}}\n      </button>\n    </ion-list>\n  </ion-content>\n\n</ion-menu>\n\n<!-- Disable swipe-to-go-back because it\'s poor UX to combine STGB with side menus -->\n<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>'/*ion-inline-end:"/home/tamer/workspace/bachelor_pwa/src/app/app.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* Platform */], __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__["a" /* StatusBar */], __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__["a" /* SplashScreen */]])
+], MyApp);
+
+//# sourceMappingURL=app.component.js.map
+
+/***/ }),
+
+/***/ 273:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* unused harmony export APIS */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__DefaultApi__ = __webpack_require__(100);
+/* harmony namespace reexport (by used) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__DefaultApi__["a"]; });
+
+
+var APIS = [__WEBPACK_IMPORTED_MODULE_0__DefaultApi__["a" /* DefaultApi */],];
+//# sourceMappingURL=api.js.map
+
+/***/ }),
+
+/***/ 275:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return BASE_PATH; });
+/* unused harmony export COLLECTION_FORMATS */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+
+var BASE_PATH = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* OpaqueToken */]('basePath');
+var COLLECTION_FORMATS = {
+    'csv': ',',
+    'tsv': '   ',
+    'ssv': ' ',
+    'pipes': '|'
+};
+//# sourceMappingURL=variables.js.map
+
+/***/ }),
+
+/***/ 276:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Configuration; });
+var Configuration = (function () {
+    function Configuration() {
+    }
+    return Configuration;
+}());
+
+//# sourceMappingURL=configuration.js.map
+
+/***/ })
+
+},[202]);
+//# sourceMappingURL=main.js.map
